@@ -4,7 +4,7 @@
  <br>
 
 </div><br/>
-<pre>                      </pre> ![Image Alt Text](images/2.jpg)
+ ![Image Alt Text](images/2.jpg)
 
 
 ###Features
